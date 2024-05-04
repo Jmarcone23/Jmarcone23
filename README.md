@@ -1,4 +1,4 @@
-### OLÁ! ME CHAMO FILIPE MACDO 👨🏾‍💻
+### OLÁ! Me chamo José Marcone! 👨🏾‍💻
 
 - 🔭 Iniciando na aréa de desenvolvimento de sistemas
 - 👨🏽‍💻 Estudando Portugol e linguagem C
