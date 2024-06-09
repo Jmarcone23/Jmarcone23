@@ -1,7 +1,7 @@
 ### OLÁ! Me chamo José Marcone! 👨🏾‍💻
 
 - 🔭 Iniciando na aréa de desenvolvimento de sistemas
-- 👨🏽‍💻 Estudando Portugol e linguagem C
+- 👨🏽‍💻 Estudando a principio a linguagem C, tendo em mente também o python e javascript como complemento básico e fundamental em projetos promissores.
 
  <img halign="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <div>
